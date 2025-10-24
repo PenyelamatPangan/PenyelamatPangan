@@ -42,7 +42,7 @@ export default function DashboardLayout({
             <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary text-primary-foreground font-bold">
               F
             </div>
-            <span className="font-bold text-foreground">FreshGuard</span>
+            <span className="font-bold text-foreground">PenyelamatPangan</span>
           </div>
           <button
             onClick={() => setSidebarOpen(!sidebarOpen)}
@@ -64,7 +64,7 @@ export default function DashboardLayout({
             <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary text-primary-foreground font-bold">
               F
             </div>
-            <span className="font-bold text-foreground">FreshGuard</span>
+            <span className="font-bold text-foreground">PenyelamatPangan</span>
           </div>
 
           <nav className="space-y-2 p-6">

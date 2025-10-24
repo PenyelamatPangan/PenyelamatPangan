@@ -45,7 +45,7 @@ export default function LoginPage() {
           <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary text-primary-foreground font-bold">
             F
           </div>
-          <span className="text-lg font-bold text-foreground">FreshGuard</span>
+          <span className="text-lg font-bold text-foreground">PenyelamatPangan</span>
         </div>
         <CardTitle className="text-2xl">Welcome back</CardTitle>
         <CardDescription>Sign in to your account to continue monitoring</CardDescription>
